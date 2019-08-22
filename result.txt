@@ -1,0 +1,475 @@
+
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.8300643563270569, 'Mean': 0.8300643563270569, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function main at 0x0000023F109CCBF8>, 'epoch': 50, 'thresh': 1, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.161051407456398, 'Mean': 0.161051407456398, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function main at 0x00000278FA70CBF8>, 'epoch': 50, 'thresh': 1, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7838794589042664, 'Mean': 0.7838794589042664, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function main at 0x00000232026DDBF8>, 'epoch': 50, 'thresh': 1, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.8045178055763245, 'Mean': 0.8045178055763245, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function main at 0x000001228634BBF8>, 'epoch': 50, 'thresh': 0.9, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6259757876396179, 'Mean': 0.6259757876396179, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function main at 0x00000295F186BBF8>, 'epoch': 100, 'thresh': 0.9, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 5, 'Sum': 3.461648106575012, 'Mean': 0.6923296213150024, 'Deviation': 0.05230493891124164}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function main at 0x000001C0EF19CBF8>, 'epoch': 200, 'thresh': 0.9, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7029914536055119, 'Mean': 0.7029914536055119, 'Deviation': 0.0}}of 
+{'dataset': 'citeseer', 'train_size': 6, 'exp': <function main at 0x000001A9BDC0B840>, 'thresh': 0.9, 'print_train': True}
+{'enhancedTestAccuracy': {'Times': 50, 'Sum': 34.4573971927166, 'Mean': 0.689147943854332, 'Deviation': 0.3908330913168424}}of 
+{'dataset': 'cora', 'train_size': 2, 'exp': <function solid_acc_strategy at 0x0000029D83158378>, 'thresh': 0.9, 'epoch': 600}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.5268425941467285, 'Mean': 0.5268425941467285, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000025FF1B671E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': True, 'split_seed': 1234}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.5353579521179199, 'Mean': 0.5353579521179199, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000025FF1B671E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': True, 'split_seed': 1234}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7429842352867126, 'Mean': 0.7429842352867126, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000025FF1B671E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': True, 'split_seed': 1234}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7209116816520691, 'Mean': 0.7209116816520691, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000025FF1B671E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': True, 'split_seed': 1234}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7811536192893982, 'Mean': 0.7811536192893982, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x0000025FF1B671E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': True, 'split_seed': 1234}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3924476206302643, 'Mean': 0.3924476206302643, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.352832555770874, 'Mean': 0.352832555770874, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6553765535354614, 'Mean': 0.6553765535354614, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.5839216113090515, 'Mean': 0.5839216113090515, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6569387316703796, 'Mean': 0.6569387316703796, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6846229434013367, 'Mean': 0.6846229434013367, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7885522246360779, 'Mean': 0.7885522246360779, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7718079686164856, 'Mean': 0.7718079686164856, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.8112829327583313, 'Mean': 0.8112829327583313, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 50, 'exp': <function solid_acc_strategy at 0x0000018959FB61E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.41984492540359497, 'Mean': 0.41984492540359497, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3631991147994995, 'Mean': 0.3631991147994995, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6412343978881836, 'Mean': 0.6412343978881836, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6229985356330872, 'Mean': 0.6229985356330872, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6681621074676514, 'Mean': 0.6681621074676514, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.689860463142395, 'Mean': 0.689860463142395, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x000001C622FF71E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 123}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.31691986322402954, 'Mean': 0.31691986322402954, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.31988173723220825, 'Mean': 0.31988173723220825, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6401179432868958, 'Mean': 0.6401179432868958, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6244871616363525, 'Mean': 0.6244871616363525, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6629245281219482, 'Mean': 0.6629245281219482, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6228946447372437, 'Mean': 0.6228946447372437, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7523375749588013, 'Mean': 0.7523375749588013, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7721972465515137, 'Mean': 0.7721972465515137, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.8100106120109558, 'Mean': 0.8100106120109558, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 50, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 0.9, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.8100106120109558, 'Mean': 0.8100106120109558, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 50, 'exp': <function solid_acc_strategy at 0x000002006CA171E0>, 'thresh': 1, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 2018}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.4242890179157257, 'Mean': 0.47476300597190857, 'Deviation': 0.12164580995093523}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.5031489431858063, 'Mean': 0.501049647728602, 'Deviation': 0.143488885766677}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.168213188648224, 'Mean': 0.722737729549408, 'Deviation': 0.02877463856209317}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.8957911133766174, 'Mean': 0.6319303711255392, 'Deviation': 0.09771339848531431}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.1357991099357605, 'Mean': 0.7119330366452535, 'Deviation': 0.0711735076205354}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.0374079942703247, 'Mean': 0.6791359980901083, 'Deviation': 0.08925084546995861}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.3528063893318176, 'Mean': 0.7842687964439392, 'Deviation': 0.016419731210040492}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.3824011087417603, 'Mean': 0.79413370291392, 'Deviation': 0.02739324693525983}}of 
+{'dataset': 'cora', 'train_size': 20, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.411795973777771, 'Mean': 0.803931991259257, 'Deviation': 0.0022706637855440335}}of 
+{'dataset': 'cora', 'train_size': 50, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.4758337140083313, 'Mean': 0.8252779046694437, 'Deviation': 0.008113306559573657}}of 
+{'dataset': 'cora', 'train_size': 50, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 0}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.0751582980155945, 'Mean': 0.3583860993385315, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.0174017548561096, 'Mean': 0.3391339182853699, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000020671F95268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.0751582980155945, 'Mean': 0.3583860993385315, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.0174017548561096, 'Mean': 0.3391339182853699, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.719386637210846, 'Mean': 0.573128879070282, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.6233690977096558, 'Mean': 0.5411230325698853, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 2.0190764665603638, 'Mean': 0.6730254888534546, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 3, 'Sum': 1.9741832613945007, 'Mean': 0.6580610871315002, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x0000015AAC8052F0>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6660506129264832, 'Mean': 0.6660506129264832, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6464282274246216, 'Mean': 0.6464282274246216, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3583860993385315, 'Mean': 0.3583860993385315, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3391339182853699, 'Mean': 0.3391339182853699, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6535156965255737, 'Mean': 0.6535156965255737, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6278365850448608, 'Mean': 0.6278365850448608, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.573128879070282, 'Mean': 0.573128879070282, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.5411230325698853, 'Mean': 0.5411230325698853, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.7164223790168762, 'Mean': 0.7164223790168762, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 5, 'exp': <function solid_acc_strategy at 0x000001BB72345268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6660506129264832, 'Mean': 0.6660506129264832, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6464282274246216, 'Mean': 0.6464282274246216, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3583860993385315, 'Mean': 0.3583860993385315, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3391339182853699, 'Mean': 0.3391339182853699, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6535156965255737, 'Mean': 0.6535156965255737, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6278365850448608, 'Mean': 0.6278365850448608, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.573128879070282, 'Mean': 0.573128879070282, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.5411230325698853, 'Mean': 0.5411230325698853, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001F6B0D55268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6660506129264832, 'Mean': 0.6660506129264832, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6464282274246216, 'Mean': 0.6464282274246216, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3583860993385315, 'Mean': 0.3583860993385315, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 0.9, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.3391339182853699, 'Mean': 0.3391339182853699, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 1, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6535156965255737, 'Mean': 0.6535156965255737, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 0.6, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6278365850448608, 'Mean': 0.6278365850448608, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 3, 'exp': <function solid_acc_strategy at 0x000001D667F05268>, 'thresh': 0.75, 'epoch': 200, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+{'enhancedTestAccuracy': {'Times': 1, 'Sum': 0.6997418999671936, 'Mean': 0.6997418999671936, 'Deviation': 0.0}}of 
+{'dataset': 'cora', 'train_size': 1, 'exp': <function solid_acc_strategy at 0x00000153FF415268>, 'thresh': 0.6, 'epoch': 1000, 'linear_weight': True, 'feature_normalize': False, 'split_seed': 1}
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.5775646567344666
+		Mean: 0.5775646567344666
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.4042951166629791
+		Mean: 0.4042951166629791
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.6
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.5012964606285095
+		Mean: 0.5012964606285095
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.75
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.5916336178779602
+		Mean: 0.5916336178779602
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.9
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.629767656326294
+		Mean: 0.629767656326294
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.601629912853241
+		Mean: 0.601629912853241
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.6
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.6793791055679321
+		Mean: 0.6793791055679321
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.75
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.5945954918861389
+		Mean: 0.5945954918861389
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 1
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.9
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7376241683959961
+		Mean: 0.7376241683959961
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7212490439414978
+		Mean: 0.7212490439414978
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.6
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7123172283172607
+		Mean: 0.7123172283172607
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.75
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.6345354914665222
+		Mean: 0.6345354914665222
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.9
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.6579816341400146
+		Mean: 0.6579816341400146
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7435787916183472
+		Mean: 0.7435787916183472
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.6
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.713061511516571
+		Mean: 0.713061511516571
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.75
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.5400065779685974
+		Mean: 0.5400065779685974
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 3
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.9
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7396172881126404
+		Mean: 0.7396172881126404
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 5
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7033284306526184
+		Mean: 0.7033284306526184
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 5
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.6
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7141777276992798
+		Mean: 0.7141777276992798
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 5
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.75
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.6199017763137817
+		Mean: 0.6199017763137817
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 5
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.9
+	epoch: 200
+	linear_weight: True
+	feature_normalize: False
+
+None: 	enhancedTestAccuracy:
+		Times: 1
+		Sum: 0.7138035893440247
+		Mean: 0.7138035893440247
+		Deviation: 0.0
+
+of 
+	dataset: cora
+	train_size: 5
+	exp: <function solid_acc_strategy at 0x000001723D3456A8>
+	thresh: 0.45
+	epoch: 600
+	linear_weight: True
+	feature_normalize: False
