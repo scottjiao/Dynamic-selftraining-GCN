@@ -7,11 +7,11 @@ This code is based on the GCN code in kipf's version , implemented mainly on ten
 How to run the experiments?
     
     "cd" where "exps.py" is, and
-    "python train_pipeline.py", 
+    "python exps.py", 
     Wait for the results!
     
     Or run it on server and nohup it:
-    "nohup python3 -u train_pipeline.py  > log.txt 2>&1 &"
+    "nohup python3 -u exps.py  > log.txt 2>&1 &"
     
     Results can be seen in "results.txt".
 
