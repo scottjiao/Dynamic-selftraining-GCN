@@ -1,6 +1,13 @@
 # Dynamic-selftraining-GCN
 
 
+
+Implementation of the paper 
+
+Zhou, Z., Zhang, S., and Huang, Z., "Dynamic Self-training Framework for Graph Convolutional Networks", <i>arXiv e-prints</i>, 2019.(https://arxiv.org/abs/1910.02684?context=stat.ML)
+
+
+
 *******************************************************************
 This code is based on the GCN code in kipf's version , implemented mainly on tensorflow.
 *******************************************************************
