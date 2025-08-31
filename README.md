@@ -4,7 +4,7 @@
 
 Implementation of the paper 
 
-Zhou, Z., Zhang, S., and Huang, Z., "Dynamic Self-training Framework for Graph Convolutional Networks", <i>arXiv e-prints</i>, 2019.(https://arxiv.org/abs/1910.02684?context=stat.ML)
+Ziang Zhou, Jieming Shi, Shengzhong Zhang, Zengfeng Huang, Qing Li, "Effective stabilized self-training on few-labeled graph data", <i>Information Sciences</i>, 2023.(https://arxiv.org/pdf/1910.02684L)
 
 
 
